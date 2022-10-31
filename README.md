@@ -1,5 +1,5 @@
 # Fácil
-<p align="center"> <img src="./screenshots/screenshots.png"/> </p><br>
+<p align="center"> <img src="Screenshots/screenshots.jpg"/> </p><br>
 
 Facil es una aplicación creada para cubanos, con el objetivo de ayudar a la gestión de servicios móviles de ETECSA
 <br/>
