@@ -1,4 +1,6 @@
 # Fácil
+<p align="center"> <img src="./images/header_dark.png#gh-dark-mode-only" style="width: 70%;"/><br><br> <img src="./images/header_light.png#gh-light-mode-only" style="width: 70%;"/><br><br> <img src="./images/banner.png"/> </p><br>
+
 Facil es una aplicación creada para cubanos, con el objetivo de ayudar a la gestión de servicios móviles de ETECSA
 <br/>
 
@@ -7,7 +9,7 @@ Facil es una aplicación creada para cubanos, con el objetivo de ayudar a la ges
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffacilcuba)
 ![country](https://img.shields.io/badge/Country-CUBA-orange)
 ![Telegram](https://img.shields.io/badge/Telegram-90CAF9?style=flag&logo=telegram&logoColor=white)
-
-<br>
-## Funciones
-- [x] Conexión a redes wifi
+<br/>
+# Funciones
+- [x] Conexión a redes WiFi.
+- [x] Llevar el consumo de sus paquetes, planes, bonos y saldo principal 
