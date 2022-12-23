@@ -11,5 +11,14 @@ Facil es una aplicación creada para cubanos, con el objetivo de ayudar en la ge
 ![Telegram](https://img.shields.io/badge/Telegram-90CAF9?style=flag&logo=telegram&logoColor=white)
 <br/>
 # Funciones
-- [x] Conexión a redes WiFi.
-- [x] Llevar el consumo de sus paquetes, planes, bonos y saldo principal 
+- [x] Conexión a redes WiFi y Nauta Hogar.
+- [x] Llevar el consumo de sus paquetes, planes, bonos y saldo principal (Android 8 en adelante)
+- [x] Llamar desde la aplicación.
+- [x] Recargar, transferir o pedir un adelanto de saldo..
+- [x] Gestión de Planes y Paquetes.
+- [x] Muestra de su tráfico de datos.
+- [x] Compatible con Dual SIM.
+- [] Pendiente compatibilidad de Dual SIM con líneas empresariales.
+- [o] Pendiente borrar correos del servidor.
+- [o] Pendiente sincronizar automáticamente la información de cuentas.
+
