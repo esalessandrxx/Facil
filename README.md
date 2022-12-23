@@ -18,7 +18,8 @@ Facil es una aplicación creada para cubanos, con el objetivo de ayudar en la ge
 - [x] Gestión de Planes y Paquetes.
 - [x] Muestra de su tráfico de datos.
 - [x] Compatible con Dual SIM.
-- [] Pendiente compatibilidad de Dual SIM con líneas empresariales.
-- [o] Pendiente borrar correos del servidor.
-- [o] Pendiente sincronizar automáticamente la información de cuentas.
+- [ ] Pendiente compatibilidad de Dual SIM con líneas empresariales.
+- [ ] Pendiente borrar correos del servidor.
+- [ ] Pendiente sincronizar automáticamente la información de cuentas.
+- [ ] Pendiente reconectar sesión en WiFi si se sale de la actividad.
 
