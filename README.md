@@ -23,3 +23,6 @@ Facil es una aplicación creada para cubanos, con el objetivo de ayudar en la ge
 - [ ] Pendiente sincronizar automáticamente la información de cuentas.
 - [ ] Pendiente reconectar sesión en WiFi si se sale de la actividad.
 
+# Comunidad
+- <a href="https://t.me/facilcuba">Telegram</a>
+- <a href="https://twitter.com/facilcuba">Twitter</a>
