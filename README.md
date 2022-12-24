@@ -9,6 +9,7 @@ Facil es una aplicación creada para cubanos, con el objetivo de ayudar en la ge
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffacilcuba)
 ![country](https://img.shields.io/badge/Country-CUBA-orange)
 ![Telegram](https://img.shields.io/badge/Telegram-90CAF9?style=flag&logo=telegram&logoColor=white)
+![](https://komarev.com/ghpvc/?username=facil&color=2196f3)
 <br/>
 # Funciones
 - [x] Conexión a redes WiFi y Nauta Hogar.
